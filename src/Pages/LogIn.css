@@ -1,0 +1,44 @@
+/* Center the login container on the page */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5; /* Optional: background color for the page */
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+  }
+  
+  .login-input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .login-button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: #333; /* Same as the navbar background color */
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background-color: #555; /* Slightly lighter shade on hover */
+  }
+  
+  .login-error {
+    color: red;
+    margin-top: 10px;
+  }
+  
