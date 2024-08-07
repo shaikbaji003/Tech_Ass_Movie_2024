@@ -7,6 +7,12 @@ https://drive.google.com/file/d/1YeGSbpJfF7y5hhRDj4sPUFdNGIpisfle/view?usp=drive
 
 This section has moved here: https://cool-alpaca-253599.netlify.app/?order=asc
 
+## Login Id Password
+{
+  "email": "eve.holt@reqres.in",
+  "password": "cityslicka"
+}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
