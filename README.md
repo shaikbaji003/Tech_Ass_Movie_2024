@@ -1,5 +1,11 @@
 # Tech_Ass_Movie_2024
-Demo https://drive.google.com/file/d/1YeGSbpJfF7y5hhRDj4sPUFdNGIpisfle/view?usp=drivesdk
+
+### Demo
+https://drive.google.com/file/d/1YeGSbpJfF7y5hhRDj4sPUFdNGIpisfle/view?usp=drivesdk
+
+### Deployment
+
+This section has moved here: https://cool-alpaca-253599.netlify.app/?order=asc
 
 # Getting Started with Create React App
 
@@ -64,9 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: https://cool-alpaca-253599.netlify.app/?order=asc
 
 ### `npm run build` fails to minify
 
