@@ -1,8 +1,7 @@
 # Tech_Ass_Movie_2024
 
 ### Demo
-https://drive.google.com/file/d/1YeGSbpJfF7y5hhRDj4sPUFdNGIpisfle/view?usp=drivesdk
-
+https://drive.google.com/file/d/1YjjA42Sjr769AMxN3q-ojT1Va40TiC_g/view?usp=drive_link
 ### Deployment
 
 This section has moved here: https://cool-alpaca-253599.netlify.app/?order=asc
